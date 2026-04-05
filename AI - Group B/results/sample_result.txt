@@ -1,0 +1,12 @@
+## 📊 Complete Results Tracking (All Experiments)
+
+**We store ALL results - successes AND failures**
+
+| Model | Accuracy | Status | Insights |
+|-------|----------|--------|----------|
+| DeiT  | **95.4%** | ✅ Success | Week 1 baseline |
+| ResNet| 92.1% | 📊 Comparison | CNN limit |
+| **Overfit**| 89.3% | ❌ Degraded | Need regularization |
+| **BadData**| 78.2% | 💥 Failed | Data quality critical |
+
+**Download**: [master_comparison.csv](results/master_comparison.csv)
